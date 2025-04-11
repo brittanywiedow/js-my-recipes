@@ -5,12 +5,13 @@
 
 
 ### Webpage Endpoint
+GET {{url}}
 
 ### Recipe List Endpoint
 GET {{apiUrl}}
 
 ### Recipe Detail Endpoint
-GET {{apiUrl}}recipe/1
+GET {{apiUrl}}recipe/3
 
 ### Add Recipe Endpoint
 POST {{apiUrl}}recipe/add
